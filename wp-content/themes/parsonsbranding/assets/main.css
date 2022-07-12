@@ -274,8 +274,8 @@ a:hover img {
 }
 
 [data-webgl].is-hidden {
-	opacity: 0;
-	visibility: hidden
+	opacity: 1;
+	visibility: visible
 }
 
 img[src*=".svg"],
